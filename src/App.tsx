@@ -647,7 +647,7 @@ export default function App() {
                 </div>
                 <div>
                   <div className="text-sm font-bold text-gray-800">교육방식</div>
-                  <div className="text-2xl font-extrabold text-black">100%온라인</div>
+                  <div className="text-2xl font-extrabold text-black">50%온라인 + 50%오프라인</div>
                 </div>
               </div>
             </div>
